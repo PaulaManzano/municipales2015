@@ -1,32 +1,32 @@
 home:
-    html_title: Municipales 2015 - Home
-    h1_title: Municipales 2015
-    steps_h2: Pasos
-    step_h2: Paso
+    html_title: Municipals 2015 - Home
+    h1_title: Municipals 2015
+    steps_h2: Passos
+    step_h2: Pas
     steps: Per donar d'alta una candidatura ciutadana has de
-    featured: Abre tu ayuntamiento a la ciudadanía en estas elecciones municipales de mayo 2015
+    featured: Obre el teu ajuntament a la ciutadania en aquestes eleccions municipals de maig 2015
     
-    open_council: Abre tu ayuntamiento a la ciudadan&iacute;a en estas elecciones municipales de mayo 2015
-    who_we_are: "¿Quienes somos?"
-    who_h3: "Empieza por aquí"
-    intro_p1: es el fruto de un esfuerzo de financiación colectiva y de un equipo de trabajo que pretende abrir las organizaciones a la ciudadanía. Entre estas organizaciones ocupan un lugar destacado los Ayuntamientos.
-    intro_p2: La elección de candidatos y candidatas en listas abiertas para los comicios municipales permite que los electos se “deban” a los ciudadanos que los han elegido, y no a quien les hubiese incluido en una lista cerrada o negociada. 
-    intro_p3: Si estás <b>directamente implicado en la organización</b> de una candidatura de listas abiertas en tu municipio para las próximas elecciones de mayo de 2.015, puedes organizarla con esta herramienta online sin coste y con resultados auditables, porque otra forma de gobernar tu Ayuntamiento es posible y necesaria.
-    intro_p4: Es muy importante que antes de empezar el proceso de registro de la candidatura, veas este tutorial del proceso completo.
-    intro_p5: ¿Cómo funciona la herramienta de listas abiertas municipales?
+    open_council: Obre el teu ajuntament a la ciutadania en aquestes eleccions municipals de maig 2015
+    who_we_are: "Qui som?"
+    who_h3: "Comença per aquí"
+    intro_p1: És el fruit d'un esforç de finançament col·lectiu i d'un equip de treball que pretén obrir les organitzacions a la ciutadania. Entre aquestes organitzacions ocupen un lloc destacat els Ajuntaments.
+    intro_p2: L'elecció de candidats i candidates en llistes obertes per als comicis municipals permet que els electes es “deguin” als ciutadans que els han triat, i no a qui els hagués inclòs en una llista tancada o negociada. 
+    intro_p3: Si estàs <b>directament implicat en l'organització</b> d'una candidatura de llistes obertes en el teu municipi per a les properes eleccions de maig de 2.015, pots organitzar-la amb aquesta eina online sense cost i amb resultats auditables, perquè una altra forma de governar el teu Ajuntament és possible i necessària.
+    intro_p4: És molt important que abans de començar el procés de registre de la candidatura, vegis aquest tutorial del procés complet.
+    intro_p5: Com funciona l'eina de llistes obertes municipals?
     
-    step_1: Regístrate y registra el municipio de la candidatura
-    step_2: Establece las condiciones de la candidatura ciudadana
-    step_3: Establece los plazos de votación
-    step_4: Reserva una dirección de internet
-    step_5: Alta de candidatos y candidatas
-    step_6: Validación de candidatos y candidatas
-    step_7: Votaciones
-    step_8: Verificación del voto y resultados
-    step_9: Presentación de las listas electas
+    step_1: Registra't i registra el municipi de la candidatura
+    step_2: Estableix les condicions de la candidatura ciutadana
+    step_3: Estableix els terminis de votació
+    step_4: Reserva una adreça de internet
+    step_5: Alta de candidats i candidates
+    step_6: Validació de candidats i candidates
+    step_7: Votacions
+    step_8: Verificació del vot i resultats
+    step_9: Presentació de les listes electes
     
-    start_here: Iniciar el registro
-    welcome: "&iexcl;Bienvenidos al sitio!"
+    start_here: Iniciar el registre
+    welcome: "&iexcl;Benvinguts al lloc!"
 
 header:
     languages:
@@ -36,112 +36,112 @@ header:
         es_es: Español
         
 candidacy:
-    html_title: Municipales 2015 - Alta de candidatura ciudadana
-    h1_title: Regístrate y registra el municipio de la candidatura
-    verify_msg: Confirma el registro y las condiciones enviando un SMS con la palabra ACEPTO al número nº %sms_inbound_number% que proporcionaste en el paso anterior, después haz clic en CONTINUAR
-    verify_extra: El coste del mensaje es de unos 10 céntimos de euro (o gratis, depende del coste de tu operadora) no es un sms premium y listabierta.org no cobra por este servicio.
+    html_title: Municipales 2015 - Alta de candidatura ciutadana
+    h1_title: Registra't i registra el municipi de la candidatura
+    verify_msg: Confirma el registre i les condicions enviant un SMS amb la paraula ACCEPTO al nombre nº %*sms_*inbound_*number% que vas proporcionar en el pas anterior, després fes clic en CONTINUAR
+    verify_extra: El cost del missatge és d'uns 10 cèntims d'euro (o gratis, depèn del cost de la teva operadora) no és un sms premium i listabierta.org no cobra per aquest servei.
     
     step_conditions:
-      html_title: Municipales 2015 - Condiciones de alta de candidatura ciudadana
-      h1_title: Regístrate y registra el municipio de la candidatura
+      html_title: Municipals 2015 - Condicions d'alta de candidatura ciutadana
+      h1_title: Registra't i registra el municipi de la candidatura
     
-      p1_title: Al iniciar el registro aceptas las siguientes condiciones
-      p1_content: Que formas parte un colectivo (partido político, coalición de partidos o agrupación de electores) que desea presentarse a los comicios municipales que se celebrarán el 24 de mayo de 2.015 y que para ello tienen la intención de registrarse en plazo y forma en la correspondiente junta electoral provincial.
-      p2_content: Que has sido designado por dicho colectivo para efectuar el alta del municipio en la presente herramienta de voto de listas abiertas, no existiendo conflicto interno en cuanto a su uso.
-      p3_content: Que dicho colectivo comprende y acepta las limitaciones del uso de la herramienta en cuanto al sistema de voto y su verificación.
-      p4_content: Que dicho colectivo comprende y acepta que el proceso de verificación y aceptación de las candidaturas lo efectúa el administrador o administradora de la votación.
-      p5_content: Que mediante el acto de registro estás dando tu consentimiento expreso al tratamiento de los datos personales que aportas, según lo dispuesto en el artículo 6 de la LOPD y que podrás ejercer tus derechos en los términos dispuestos por el artículo 5 de la LOPD.
-      p6_content: Que la información que aportas durante el registro es cierta, tanto los datos personales como las condiciones de la votación, de la candidatura y su programa. <b>Ten en cuenta que no podrás modificarla más adelante, ya que los datos de registro se utilizan para identificarte como usuario único</b>.
-      accept: ACEPTAS ESTAS CONDICIONES
+      p1_title: Al iniciar el registre acceptes les següents condicions
+      p1_content: Que formes part un col·lectiu (partit polític, coalició de partits o agrupació d'electors) que desitja presentar-se als comicis municipals que se celebraran el 24 de maig de 2.015 i que per a això tenen la intenció de registrar-se en termini i forma en la corresponent junta electoral provincial.
+      p2_content: Que has estat designat per dita col·lectiva per efectuar l'alta del municipi en la present eina de vot de llistes obertes, no existint conflicte intern quant al seu ús.
+      p3_content: Que aquest col·lectiu comprèn i accepta les limitacions de l'ús de l'eina quant al sistema de vot i la seva verificació.
+      p4_content: Que aquest col·lectiu comprèn i accepta que el procés de verificació i acceptació de les candidatures ho efectua l'administrador o administradora de la votació.
+      p5_content: Que mitjançant l'acte de registre estàs donant el teu consentiment exprés al tractament de les dades personals que aportes, segons el que es disposa en l'article 6 de la LOPD i que podràs exercir els teus drets en els termes disposats per l'article 5 de la LOPD.
+      p6_content: Que la informació que aportes durant el registre és certa, tant les dades personals com les condicions de la votació, de la candidatura i el seu programa. <b>Tingues en compte que no podràs modificar-la més endavant, ja que les dades de registre s'utilitzen per identificar-te com a usuari únic</b>.
+      accept: ACCEPTES AQUESTES CONDICIONS
       continue: <i class="ace-icon fa fa-check bigger-110"></i> Continuar
       
     step1:
-        name: Nombre 
-        lastname: Apellidos
+        name: Nom 
+        lastname: Cognoms
         dni: DNI
-        username: Usuario
-        password: Contraseña
+        username: Usuari
+        password: Contrasenya
         email: Email
-        province: Provincia del municipio
-        town: Nombre del municipio
-        phone: Número de móvil
+        province: Provincia del municipi
+        town: Nom del municipi
+        phone: Número de mòbil
         previous: Anterior
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
-        explanation_dni: ¿Por que necesitamos tu DNI y tu número de móvil? Para evitar el spam y el registro múltiple de candidaturas. Para poder continuar con el registro necesitamos que proporciones ambos datos de forma correcta.
-        explanation: Explicación
-        dni_info: Sin introducir guión entre número y letra
-        username_info: Anota tu nombre de usuario
-        password_info: Anota tu contraseña
-        email_info: Recibirás un email de confirmación
-        phone_info: Deberás confirmarlo con un mensaje en el siguiente paso, si introduces un número incorrecto, no podrás continuar
-        warning_text: <b>Atención</b>: es imprescindible que introduzcas los datos de registro de forma correcta, incluyendo tu número de móvil, un error en los datos de registro implica que otra persona tendrá que dar de alta esta candidatura ciudadana. Si tienes dudas del proceso, vuelve a ver el video <a href="https://www.youtube.com/watch?v=v-ysTeRE9lc" title="listAbierta.org - Abre las organizaciones a la ciudadanía (Versión Corta)">aquí</a>. El sistema no admite candidaturas “de prueba”.
+        explanation_dni: Per què necessitem el teu DNI i el teu nombre de mòbil? Per evitar el *spam i el registre múltiple de candidatures. Per poder continuar amb el registre necessitem que proporcions tots dos dades de forma correcta.
+        explanation: Explicació
+        dni_info: Sense introduir guió entre nombre i lletra
+        username_info: Anota el teu nom d'usuari
+        password_info: Anota la teva contrasenya
+        email_info: Rebràs un email de confirmació
+        phone_info: Hauràs de confirmar-ho amb un missatge en el següent pas, si introdueixes un número incorrecte, no podràs continuar
+        warning_text: <b>Atenció</b>: és imprescindible que introdueixis les dades de registre de forma correcta, incloent el teu número de mòbil, un error en les dades de registre implica que una altra persona haurà de donar d'alta aquesta candidatura ciutadana. Si tens dubtes del procés, torna a veure el vídeo <a href="https://www.youtube.com/watch?v=v-ysTeRE9lc" title="listAbierta.org - Abre las organizaciones a la ciudadanía (Versión Corta)">aquí</a>. El sistema no admet candidatures “de prova”.
 
     step_verify:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
+        html_title: Municipals 2015 - Alta de candidatura ciutadana
         h1_title: Verifica tu número de móvil
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior
         
     step2:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Establece las condiciones de la candidatura ciudadana
+        html_title: Municipals 2015 - Alta de candidatura ciutadana
+        h1_title: Estableix les condicions de la candidatura ciutadana
         
-        p1: "Sube en formato PDF aquellas condiciones que deban aceptar los candidatos o candidatas para presentarse en la candidatura ciudadana. Por ejemplo: El programa de la candidatura, las condiciones legales y la veracidad de la información aportada, el mandato revocatorio y participativo, el código ético, la aceptación del censo y el sistema de voto, etc.  Si no subes ninguna condición, te recomendamos que busques algún método alternativo para verificar que el candidato o candidata va a cumplirlas antes de su inclusión en las listas."
+        p1: "Puja en format PDF aquelles condicions que hagin d'acceptar els candidats o candidates per presentar-se en la candidatura ciutadana. Per exemple: El programa de la candidatura, les condicions legals i la veracitat de la informació aportada, el mandat revocatori i participatiu, el codi ètic, l'acceptació del cens i el sistema de vot, etc.  Si no puges cap condició, et recomanem que busquis algun mètode alternatiu per verificar que el candidat o candidata complirà abans de la seva inclusió en les llistes."
   
         program: El programa de la candidatura
-        legal_conditions: Condiciones legales y veracidad de la información aportada de candidatos y candidatas
-        recall_term: El mandato revocatorio del candidato
-        participatory_term: El código ético de la candidatura
-        voter_conditions: Las condiciones para poder participar como votante (censo y aceptación del sistema de votación)
-        technical_constrains: Las limitaciones técnicas y legales del sistema de voto.
+        legal_conditions: Condicions legals i veracitat de la informació aportada de candidats i candidates
+        recall_term: El mandat revocatori del candidat
+        participatory_term: El codi ètic de la candidatura
+        voter_conditions: Les condicions per poder participar com a votant (cens i acceptació del sistema de votació)
+        technical_constrains: Les limitacions tècniques i legals del sistema de vot.
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior
-        example: Ejemplo
+        example: Exemple
                       
     step3:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Establece los plazos de presentación de candidaturas
+        html_title: Municipals 2015 - Alta de candidatura ciutadana
+        h1_title: Estableix els terminis de presentació de candidatures
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
-        explanation_date: Plazo de presentación de candidaturas (mínimo 2 días, se recomiendan 15 días) 
+        explanation_date: Termini de presentació de candidatures (mínim 2 dies, es recomanen 15 dies)
         from_label: DE
-        to_label: HASTA  
+        to_label: FINS  
         previous: Anterior
               
     step4:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Reserva una dirección de internet
+        html_title: Municipals 2015 - Alta de candidatura ciutadana
+        h1_title: Reserva una adreça de internet
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior
         continue: <i class="ace-icon fa fa-check bigger-110"></i> Continuar
-        choose_address: Elige tu dirección de internet
-        warning: Si en el espacio en blanco escribes por ejemplo: FuenteovejunaParticipa, las direcciones asociadas a tu candidatura serán del tipo: http://municipales2015.listabierta.org/FuenteovejunaParticipa/...
+        choose_address: Tria la teva adreça de internet
+        warning: Si en l'espai en blanc escrius per exemple: *FuenteovejunaParticipa, les adreces associades a la teva candidatura seran del tipus: http://municipales2015.listabierta.org/fuenteovejunaparticipa/...
         
     step5:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Alta de candidatos y candidatas
+        html_title: Municipals 2015 - Alta de candidatura ciutadana
+        h1_title: Alta de candidats i candidates
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior
-        explanation_link: Proporciona este enlace público a los candidatos y candidatas para que se den de alta rellenando el formulario que les aparecerá
+        explanation_link: Proporciona aquest enllaç públic als candidats i candidates perquè es donin d'alta emplenant el formulari que els apareixerà
         continue: <i class="ace-icon fa fa-check bigger-110"></i> Continuar
-        register_link: Enlace de Alta
-        send_link: Te hemos enviado una copia de este enlace a tu email
-        next_step_explanation: En el siguiente paso podrás validar a los candidatos y candidatas que se den de alta utilizando el enlace anterior.
+        register_link: Enllaç de Alta
+        send_link: T'hem enviat una còpia d'aquest enllaç al teu email
+        next_step_explanation: En el següent pas podràs validar als candidats i candidates que es donin d'alta utilitzant l'enllaç anterior.
 
     step6:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Validación de candidatos y candidatas  
+        html_title: Municipals 2015 - Alta de candidatura ciutadana
+        h1_title: Validació de candidats i candidates  
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
-        no_candidates: En estos momentos no existe ningun candidato inscrito para validar
-        name_header: Nombre y Apellidos
-        motivational_text_header: Texto motivacional
-        town_activities_explanation_header: Explicación actividades municipales
-        additional_info_header: Biografía
+        no_candidates: En aquests moments no existeix cap candidat inscrit para validar
+        name_header: Nom i Cognoms
+        motivational_text_header: Text motivacional
+        town_activities_explanation_header: Explicació activitats municipals
+        additional_info_header: Biografia
         photo_header: Foto
-        action_header: Acción
+        action_header: Acció
         
     step7:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Inicio y fin de las Votaciones
+        html_title: Municipals 2015 - Alta de candidatura ciutadana
+        h1_title: Inici yi fin de les Votacions
         days: Días
         explanation: Introduce el número de días naturales que permanecerá activa la votación de candidatos desde el inicio de la votación (se recomiendan al menos 14 días, mínimo dos días).
         init_vote_explanation: Haz clic en el siguiente botón para iniciar la votación
